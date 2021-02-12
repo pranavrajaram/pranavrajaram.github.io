@@ -5,5 +5,4 @@ permalink: /about/
 ---
 
 ### Contact me
-
-[pranavrajaram@gmail.com](mailto:pranavrajaram@gmail.com)
+pranavrajaram@gmail.com
