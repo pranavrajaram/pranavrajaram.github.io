@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello
+title: Hello World
 ---
 
 My name is Pranav Rajaram, and I'm a sophomore at Westford Academy.
