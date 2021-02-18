@@ -10,7 +10,7 @@ name: Pranav Rajaram
 bio: Hello
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
+avatar: "/images/logo.png"
 
 #
 # Flags below are optional
