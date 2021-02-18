@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 Here is a collection of various projects I have worked on over the past few years:
+<hr>
 
 <div class="posts">
   {% for post in site.posts %}
