@@ -23,7 +23,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <article class="post">
 
         
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
