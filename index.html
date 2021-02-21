@@ -22,16 +22,14 @@ and is wrapped around the whole page content, except for the footer in this exam
   <p>Hi there, my name is Pranav Rajaram, and I'm currently a sophomore attending Westford Academy. This website is a portfolio of sorts, with various collections of my work
   and some information about me. Some of my interests include football, data analysis, math, and football. </p>
 </header>
-  
-<center><img src = "/images/logo.png" alt = "logo"></center>
-  
+    
  
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
         
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.featured_img }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.thumbnail }}</a></h3>
     
     </article> 
     
