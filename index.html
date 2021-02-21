@@ -23,4 +23,17 @@ and is wrapped around the whole page content, except for the footer in this exam
   and some information about me. Some of my interests include football, data analysis, math, and football. </p>
 </header>
   
-  <center><img src = "/images/logo.png" alt = "logo"></center>
+<center><img src = "/images/logo.png" alt = "logo"></center>
+  
+ 
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+        
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.featured_img }}</a></h3>
+    
+    </article> 
+    
+  {% endfor %}
+</div>
