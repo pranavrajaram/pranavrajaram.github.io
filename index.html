@@ -29,8 +29,8 @@ and is wrapped around the whole page content, except for the footer in this exam
     <article class="post">
 
         
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.thumbnail }}</a></h3>
-    
+      <a href="{{ site.baseurl }}{{ post.url }}"><img src = "{{ post.thumbnail }}"></a>
+   
     </article> 
     
   {% endfor %}
