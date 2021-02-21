@@ -29,7 +29,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
         {{ post.excerpt }}
       </div>
       
-      <img src="{% post.featured_img %}" />
+      <img src="{{ post.featured_img }}" />
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
