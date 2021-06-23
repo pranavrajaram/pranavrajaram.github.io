@@ -20,3 +20,5 @@ Hi there, my name is Pranav Rajaram and I am a junior from Westford Academy. Tak
 <h3> Contact </h3>
 <p> Email me at pranavrajaram@gmail.com </p>
 <p> Contact me on twitter @_pranavrajaram </p>
+  
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
