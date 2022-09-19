@@ -15,7 +15,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 </style>
 <body>
   
-Hi there, my name is Pranav Rajaram and I am a junior from Westford Academy. Take a look around and contact me if you have any questions.
+Hi there, my name is Pranav Rajaram and I am a Senior at Westford Academy. Take a look around and contact me if you have any questions.
 
 <h3> Contact </h3>
 <p> Email me at pranavrajaram@gmail.com </p>
