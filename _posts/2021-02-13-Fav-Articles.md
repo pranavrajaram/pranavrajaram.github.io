@@ -7,7 +7,7 @@ Here is a compilation of some of the favorite articles that I have written:
 
 <a href = "https://www.yahoo.com/video/fantasy-football-which-skill-position-players-should-you-consider-stacking-in-2022-drafts-154809874.html" target = "_blank"> Fantasy Football Skill Position Stack Analysis (Published on Yahoo Sports) </a>
 
-<a href = "https://www.4for4.com/2022/preseason/how-not-lose-your-fantasy-football-league-first-round" target = "_blank"> How to Not Lose Your Fantasy League in the 1st Round </a>
+<a href = "https://www.yahoo.com/video/2022-fantasy-football-how-not-to-lose-your-draft-in-the-very-first-round-161325737.html" target = "_blank"> How to Not Lose Your Fantasy League in the 1st Round (Published on Yahoo Sports) </a>
 
 <a href = "https://www.4for4.com/2022/preseason/amon-ra-st-brown-fantasy-footballs-ideal-insurance-policy" target = "_blank"> Amon-Ra St. Brown 2022 Breakout Article </a>
 
