@@ -10,7 +10,7 @@ name: Pranav Rajaram
 bio: Hello
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/images/logo.png"
+avatar: "/images/headshot.jpg"
 
 #
 # Flags below are optional
@@ -22,9 +22,9 @@ footer-links:
   email: pranavrajaram@gmail.com
   facebook:
   flickr:
-  github: pranavrajaram/pranavrajaram.github.io
+  github: pranavrajaram
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/pranavrajaram/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: _pranavrajaram
