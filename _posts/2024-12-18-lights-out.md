@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DSC80 Final Project
+title: Power Outage Analysis
 thumbnail: ""
 ---
 
